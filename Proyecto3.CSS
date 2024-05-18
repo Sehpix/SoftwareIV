@@ -42,12 +42,13 @@ header {
 .t1 {
   display:inline;
   text-align: right;
-  font-size: 250%;
+  font-size: 170%;
   padding: 1.50em;
   color:#40e6f1;
   font-family: "CaviarDreams";
   font-style: oblique;
   font-weight: 300px;
+  margin-top: 30px;
 }
 .Logo {
     text-align: left;
